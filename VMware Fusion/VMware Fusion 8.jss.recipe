@@ -23,10 +23,10 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>VMware Fusion is the easiest, fastest, and most reliable way to run Windows and other x86 based operating systems on a Mac without rebooting.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>VMWareFusion8.png</string>
+		<string>VMWareFusion.png</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.2.0</string>
+	<string>1.4</string>
 	<key>ParentRecipe</key>
 	<string>com.github.dataJAR-recipes.pkg.VMware Fusion 8</string>
 	<key>Process</key>

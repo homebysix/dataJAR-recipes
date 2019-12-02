@@ -3,9 +3,9 @@
 <plist version="1.0">
 <dict>
 	<key>Description</key>
-	<string>Downloads the current release version of VMWare Fusion 10 and then uploads to the JSS</string>
+	<string>Downloads the current release version of VMWare Fusion 11 and then uploads to the JSS</string>
 	<key>Identifier</key>
-	<string>com.github.dataJAR-recipes.jss.VMWare Fusion 10</string>
+	<string>com.github.dataJAR-recipes.jss.VMWare Fusion 11</string>
 	<key>Input</key>
 	<dict>
 		<key>CATEGORY</key>
@@ -15,7 +15,7 @@
 		<key>GROUP_TEMPLATE</key>
 		<string>SmartGroupTemplate.xml</string>
 		<key>NAME</key>
-		<string>VMWare Fusion 10</string>
+		<string>VMWare Fusion 11</string>
 		<key>POLICY_CATEGORY</key>
 		<string>Testing</string>
 		<key>POLICY_TEMPLATE</key>
@@ -23,12 +23,12 @@
 		<key>SELF_SERVICE_DESCRIPTION</key>
 		<string>VMware Fusion is the easiest, fastest, and most reliable way to run Windows and other x86 based operating systems on a Mac without rebooting.</string>
 		<key>SELF_SERVICE_ICON</key>
-		<string>VMWareFusion10.png</string>
+		<string>VMWareFusion.png</string>
 	</dict>
 	<key>MinimumVersion</key>
-	<string>0.2.0</string>
+	<string>1.4</string>
 	<key>ParentRecipe</key>
-	<string>com.github.dataJAR-recipes.pkg.VMware Fusion 10</string>
+	<string>com.github.dataJAR-recipes.pkg.VMware Fusion 11</string>
 	<key>Process</key>
 	<array>
 		<dict>
