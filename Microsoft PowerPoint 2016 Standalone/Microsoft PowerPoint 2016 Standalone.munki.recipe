@@ -16,8 +16,6 @@
     <dict>
         <key>NAME</key>
         <string>Microsoft PowerPoint 2016 Standalone</string>
-        <key>PRODUCTID</key>
-        <string>871751</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/%NAME%</string>
         <key>MINIMUM_OS_VERSION</key>

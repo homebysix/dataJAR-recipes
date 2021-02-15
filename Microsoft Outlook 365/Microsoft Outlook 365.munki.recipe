@@ -14,8 +14,6 @@
     <dict>
         <key>NAME</key>
         <string>Microsoft Outlook 365</string>
-        <key>PRODUCTID</key>
-        <string>525137</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/%NAME%</string>
         <key>MINIMUM_OS_VERSION</key>

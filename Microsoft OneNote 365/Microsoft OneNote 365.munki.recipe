@@ -14,8 +14,6 @@
     <dict>
         <key>NAME</key>
         <string>Microsoft OneNote 365</string>
-        <key>PRODUCTID</key>
-        <string>820886</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/%NAME%</string>
         <key>MINIMUM_OS_VERSION</key>
