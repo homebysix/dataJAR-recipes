@@ -10,8 +10,6 @@
     <dict>
         <key>NAME</key>
         <string>PolycomContentApp</string>
-        <key>SEARCH_URL</key>
-        <string>https://support.polycom.com/content/support/north-america/usa/en/support/video/polycom-content-app.html</string>
         <key>POLYCOMRPDESKTOP_DMG_REPATTERN</key>
         <string>https://downloads\.polycom\.com/video/content-app/PolycomContentApp_(?P&lt;version&gt;.*?_.*?_.*?)_(?P&lt;bundle_version&gt;.*?)\.dmg</string>
         <key>pkginfo</key>
