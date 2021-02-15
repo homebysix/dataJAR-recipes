@@ -18,8 +18,6 @@
         <string>Microsoft Word 2019</string>
         <key>PRODUCTID</key>
         <string>525134</string>
-        <key>DOWNLOADURL</key>
-        <string>https://go.microsoft.com/fwlink/?linkid=%PRODUCTID%</string>
         <key>MUNKI_REPO_SUBDIR</key>
         <string>apps/%NAME%</string>
         <key>MINIMUM_OS_VERSION</key>
