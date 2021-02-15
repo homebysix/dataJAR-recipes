@@ -6,8 +6,6 @@
 	<string>com.github.dataJAR-recipes.munki.VPT8</string>
 	<key>Input</key>
 	<dict>
-		<key>DOWNLOAD_URL</key>
-		<string>http://nervousvision.com/vpt/vpt8-osx.zip</string>
 		<key>NAME</key>
 		<string>VPT8</string>
 		<key>MUNKI_REPO_SUBDIR</key>

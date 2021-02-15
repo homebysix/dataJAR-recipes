@@ -14,8 +14,6 @@
         <string>apps/MakerBotPrint</string>
         <key>NAME</key>
         <string>MakerBotPrint</string>
-		<key>DOWNLOAD_URL</key>
-		<string>https://s3.amazonaws.com/downloads-makerbot-com/installer/release/MakerBotPrintInstaller.pkg</string>
     	<key>pkginfo</key>
     	<dict>
     		<key>catalogs</key>
