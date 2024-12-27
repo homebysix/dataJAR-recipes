@@ -15,6 +15,8 @@ Main changes are non-overridable year, removed superfluous CodeSignatureVerifica
     <string>com.github.dataJAR-recipes.download.SketchUp 2024 EN</string>
     <key>Input</key>
     <dict>
+        <key>LOCALE</key>
+        <string>en</string>
         <key>NAME</key>
         <string>SketchUp2024-EN</string>
     </dict>
@@ -30,7 +32,7 @@ Main changes are non-overridable year, removed superfluous CodeSignatureVerifica
                 <key>result_output_var_name</key>
                 <string>DOWNLOAD_URL</string>
                 <key>url</key>
-                <string>https://help.sketchup.com/en/downloading-sketchup</string>
+                <string>https://help.sketchup.com/%LOCALE%/downloading-sketchup</string>
                 <key>request_headers</key>
                 <dict>
                     <key>Referer</key>
