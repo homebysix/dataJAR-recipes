@@ -12,6 +12,8 @@
         <string>apps/%NAME%</string>
         <key>NAME</key>
         <string>QGIS-LTR</string>
+        <key>RELEASE_TYPE</key>
+        <string>ltr</string>
         <key>pkginfo</key>
         <dict>
             <key>catalogs</key>
@@ -35,7 +37,7 @@
     <key>MinimumVersion</key>
     <string>1.1</string>
     <key>ParentRecipe</key>
-    <string>com.github.dataJAR-recipes.download.QGIS-LTR</string>
+    <string>com.github.mlbz521.download.QGIS</string>
     <key>Process</key>
     <array>
         <dict>
