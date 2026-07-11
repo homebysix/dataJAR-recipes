@@ -40,7 +40,7 @@ To download Intel use: "" in the DOWNLOAD_ARCH variable</string>
             <dict>
                 <key>expected_authority_names</key>
                 <array>
-                    <string>Developer ID Installer: Dark River Systems Inc. (979L7J7YW8)</string>
+                    <string>Developer ID Installer: Maltego Technologies GmbH (DWKJK9NXD9)</string>
                     <string>Developer ID Certification Authority</string>
                     <string>Apple Root CA</string>
                 </array>
