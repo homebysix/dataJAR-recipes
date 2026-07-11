@@ -12,7 +12,7 @@
         <string>BasicPAYETools</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>1.0.0</string>
+    <string>1.1</string>
     <key>Process</key>
     <array>
         <dict>
@@ -61,7 +61,7 @@
             <dict>
                 <key>expected_authority_names</key>
                 <array>
-                    <string>Developer ID Installer: Pennant Information Services LTD (EX7FCAJQGZ)</string>
+                    <string>Developer ID Installer: VE3 Global Ltd (6DYLJ52V9Y)</string>
                     <string>Developer ID Certification Authority</string>
                     <string>Apple Root CA</string>
                 </array>
